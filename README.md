@@ -1,0 +1,1 @@
+This is sign up page build using HTML, CSS and JS. The template and design was gotten from Frontend mentor.
